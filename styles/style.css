@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+body{
+    background-color: rgb(221, 226, 235);
+    
+}
+
+
+
+.top-player{
+    background-color: #fff;
+    
+
+}
+
+.navbar img {
+    width: 30px;
+    
+
+}
+
+.navbar{
+    background-color: #562EFF;
+}
+
+.nav-item{
+    margin-right: 1.3rem;
+}
+
+.player img{
+    width: 6rem;
+}
+
+.blog img{
+    width: 15rem;
+}
+
+.courses img{
+    width: 15rem;
+    margin: 19px;
+    
+
+}
+
+#one{
+    height: 15rem!important;
+}
+
+.courses{
+    background-color: #fff;
+}
+.card{
+    border: none;
+    
+}
+
+.checked{
+    color: orange;
+}
+
+.clock{
+    color: #ED6B4F;
+    background-color: #FFE4E8;
+    padding: 2px;
+    border-radius: 20px;
+}
+
+.card-text{
+    color: #ED6B4F;
+}
+
+.top-player h3{
+    color: #562EFF;
+    cursor: pointer;
+}
+
+.top-player h3:hover{
+    color: #ED6B4F;
+}
+
+
+.title{
+    color:#562EFF;
+    cursor: pointer;
+}
+
+.title:hover{
+    color: #ED6B4F;
+}
+main{
+    max-width: 1200px;
+}
+
+.wrting{
+    font-size: smaller;
+    padding: 6px 6px;
+}
+
+.card-footer{
+    font-size: smaller;
+    background-color: #fff;
+}
+
+.fa{
+    margin-right: 1px;
+}
+
+.author{
+    font-size: small;
+    color: #9F9F9F;
+    font-weight: normal!important;
+}
+.color{
+    color: #562EFF;
+}
+
+.plyr{
+    border: 3px solid white;
+    border-radius: 100%;
+}
+
+.blogger{
+    border: 5px solid white;
+    border-radius: 10%;
+}
